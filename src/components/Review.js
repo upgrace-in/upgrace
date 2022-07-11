@@ -4,7 +4,7 @@ export default function Review() {
 
     function reviewElements() {
         let arr = [];
-        for(let i=1; i < 25; i++){
+        for (let i = 1; i < 25; i++) {
             arr.push(<SS key={i} src={`upgrace_s${i}`} />)
         }
         return arr
@@ -16,13 +16,11 @@ export default function Review() {
                 <i className="r_clsbtn fas fa-arrow-circle-left"></i>
             </div>
             <div className="text-center container mx-auto stagger review_stagger con_cards" style={{ marginTop: 100 + 'px' }}>
-                <br />
                 <img className="mx-auto dots_img" style={{ width: 8 + '%' }} src="assets/dots.png" alt="image not found" />
+                <h3>Genuine Reviews</h3>
+                <p>(from <a href="https://fiverr.com" target="_blank">fiverr.com</a>)</p>
                 <br />
-                <div className="head3">
-                    Genuine Reviews (from <a href="https://fiverr.com" target="_blank">fiverr.com</a>)
-                </div>
-                <br /><br /><br />
+                <br/>
                 {/* Swiper */}
                 <div className="swiper">
 

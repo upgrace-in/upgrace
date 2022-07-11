@@ -5,7 +5,6 @@ import Navbar from './components/Navbar'
 import Work from './components/Work'
 import AcquiredSkills from './components/AcquiredSkills'
 import $ from 'jquery'
-import useEffect from 'react'
 
 export default function App() {
 

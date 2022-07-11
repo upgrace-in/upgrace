@@ -9,21 +9,17 @@ export default function Workcard(props) {
         let sampleArr = []
         for (let j = 1; j < samples.length; j++) {
             if (samples[j]["code"] == code) {
-                sampleArr.push(<UpdateCard src={samples[j]["src"]} href={samples[j]["link"]} />)
+                sampleArr.push(<UpdateCard key={j} src={samples[j]["src"]} href={samples[j]["link"]} />)
             }
         }
         return sampleArr
     }
 
     return (
-        <div className="cards text-center mx-auto col-md-12">
-            <img className="mx-auto dots_img" src="assets/dots.png" alt="image not found" />
-            <div className="head3">
-                {props.heading}
+            <div className="cards text-center mx-auto col-md-12">
+                <div className="row">
+                    {updateCards()}
+                </div>
             </div>
-            <div className="row">
-                {updateCards()}
-            </div>
-        </div>
     )
 }

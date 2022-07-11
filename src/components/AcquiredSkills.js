@@ -8,10 +8,15 @@ export default function AcquiredSkills() {
                 <i className="s_clsbtn fas fa-arrow-circle-left"></i>
             </div>
             <div className="container mx-auto stagger serv_stagger con_cards" style={{ marginTop: 100 + 'px' }}>
-                <div className="head4" style={{ fontSize: '3rem', fontWeight: '700' }}>
+                {/* <div className="head4" style={{ fontSize: '3rem', fontWeight: '700' }}>
                     Hands On
+                </div> */}
+                <div className="mx-auto text-center">
+                    <img className="mx-auto dots_img" style={{ width: 8 + '%' }} src="assets/dots.png" alt="image not found" />
+                    <h3>Hands On</h3>
+                    <p>(from <a href="https://udemy.com" target="_blank">udemy</a>, <a href="https://freecodecamp.org" target="_blank">freecodecamp</a> and many other sources)</p>
                 </div>
-                <br/>
+                <br />
                 <div className="servi" style={{ paddingLeft: 20 + 'px', marginTop: 10 + 'px' }}>
                     <div className="row">
                         <div className="col-md-6">
