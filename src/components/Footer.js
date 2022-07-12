@@ -36,7 +36,7 @@ export default function Footer() {
                     <div className="col-lg-4 col-md-6 mb-lg-0">
                         <h6 className="text-uppercase font-weight-bold mb-4">Contact</h6>
                         <p className="text-muted mb-4">
-                            <i class="fa fa-envelope"></i>&nbsp;&nbsp;upgrace.in@gmail.com
+                            <i className="fa fa-envelope"></i>&nbsp;&nbsp;upgrace.in@gmail.com
                             <br />
                             <i className="fa fa-phone"></i>&nbsp;&nbsp;+91 7001-617-004
                         </p>

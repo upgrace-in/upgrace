@@ -184,7 +184,7 @@ hr {
 }
 
 .head_section{
-    background: #8000FF url(../assets/bg.jpg);
+    background: #8000FF url('../assets/bg.jpg');
     background-size: cover;
     display: block;
     width: 100%;
