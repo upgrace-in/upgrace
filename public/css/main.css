@@ -64,10 +64,9 @@ body {
     cursor: pointer;
 }
 
-body {
-    background: #8000FF url('../assets/bg.jpg');
-    background-size: cover;
-    color: white;
+.col-md-12 {
+    padding: 0;
+    margin: 0;
 }
 
 .overlay {
@@ -171,6 +170,10 @@ body {
     word-wrap: break-word;
 }
 
+html, body{
+    scroll-behavior: smooth;
+}
+
 a,
 a:hover {
     text-decoration: none;
@@ -208,10 +211,19 @@ a:hover {
 
 @media (max-width: 700px) {
 
-    .card {
-        padding: 5px !important;
+    #foot_con{
+        text-align: center;
     }
-    
+
+    #foot_con>img{
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .card {
+        padding: 20px !important;
+    }
+
     .card_con {
         padding: 10px !important;
     }
@@ -235,9 +247,9 @@ a:hover {
 
     .big_text {
         text-align: left;
-        margin-top: 70%;
+        margin-top: 90%;
         font-size: 2.5rem;
-        padding-left: 5% !important;    
+        padding-left: 5% !important;
     }
 
     .navbar {
@@ -266,8 +278,8 @@ a:hover {
         margin-bottom: 10%;
     }
 
-    body {
-        background: url('../assets/bg_mob2.jpg') no-repeat center center fixed;
+    .head_section {
+        background: url('../assets/bg_mob2.jpg') no-repeat center center fixed !important;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -275,11 +287,11 @@ a:hover {
     }
 
     .con_cards {
-        padding: 30px;
+        /* padding: 30px; */
         margin-top: 30px !important;
     }
 
-    .head3{
+    .head3 {
         font-size: 1.3rem;
     }
 }
@@ -290,6 +302,6 @@ img {
     display: block;
 }
 
-.itemHeads{
+.itemHeads {
     cursor: pointer;
 }

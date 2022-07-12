@@ -13,13 +13,13 @@ export default function PCNav(props) {
                         <a className="serv nav-link">Hands&nbsp;On</a>
                     </li>
                     <li className="nav-item">
-                        <a className="works nav-link">Works</a>
+                        <a href="#works" className="works nav-link">Works</a>
                     </li>
                     <li className="nav-item">
-                        <a className="review nav-link">Reviews</a>
+                        <a className="review nav-link">Testimonials</a>
                     </li>
                     <li className="nav-item">
-                        <a className="contact nav-link">Contact</a>
+                        <a href="#contact" className="contact nav-link">Contact</a>
                     </li>
                     <li className="nav-item bt_spec">
                         <a target="_blank" href="https://fiverr.com/thedesiretree" className="bt nav-link">Fiverr</a>

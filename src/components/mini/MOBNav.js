@@ -16,13 +16,13 @@ export default function MOBNav(props) {
                     <a className="serv nv nav-link">Hands&nbsp;On</a>
                 </li>
                 <li className="nav-item">
-                    <a className="works nv nav-link">Works</a>
+                    <a href="#works" onClick={props.hide_nav} className="works nv nav-link">Works</a>
                 </li>
                 <li className="nav-item">
-                    <a className="review nv nav-link">Reviews</a>
+                    <a className="review nv nav-link">Testimonials</a>
                 </li>
                 <li className="nav-item">
-                    <a className="contact nv nav-link">Contact</a>
+                    <a href="#contact" onClick={props.hide_nav} className="contact nv nav-link">Contact</a>
                 </li>
                 <li className="nav-item bt_spec bt_spec2">
                     <a target="_blank" href="https://fiverr.com/thedesiretree" className="bt nav-link">Order Now</a>

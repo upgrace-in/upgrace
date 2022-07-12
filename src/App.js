@@ -1,8 +1,8 @@
 import Title from './components/Title'
-import Review from './components/Review'
-import Contact from './components/Contact'
+import { Review, ReviewCon } from './components/Review'
 import Navbar from './components/Navbar'
-import Work from './components/Work'
+import Footer from './components/Footer'
+import { Work, WorkCon } from './components/Work'
 import { AcquiredSkills, SkillCon } from './components/AcquiredSkills'
 import $ from 'jquery'
 
@@ -26,15 +26,15 @@ export default function App() {
   }
 
   return (
-    <div>
+    <div className='col-md-12'>
       <Navbar show_nav={show_nav} hide_nav={hide_nav} />
       <Title />
-      <SkillCon />
+      <WorkCon hide={false} sec={false} />
+      <Footer />
 
       <AcquiredSkills />
       <Work />
       <Review />
-      <Contact />
     </div>
   )
 }
