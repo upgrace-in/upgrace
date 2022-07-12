@@ -13,19 +13,22 @@ export default function MOBNav(props) {
                     <a href=" " className="nv nav-link">Home <span className="sr-only">(current)</span></a>
                 </li>
                 <li className="nav-item">
-                    <a className="serv nv nav-link">Hands&nbsp;On</a>
+                    <a href="#works" onClick={props.hide_nav} className="works nv nav-link">Works</a>
                 </li>
                 <li className="nav-item">
-                    <a href="#works" onClick={props.hide_nav} className="works nv nav-link">Works</a>
+                    <a className="serv nv nav-link">Hands&nbsp;On</a>
                 </li>
                 <li className="nav-item">
                     <a className="review nv nav-link">Testimonials</a>
                 </li>
                 <li className="nav-item">
+                    <a target="_blank" href="assets/resume.pdf" className="nv nav-link">Resume/CV</a>
+                </li>
+                <li className="nav-item">
                     <a href="#contact" onClick={props.hide_nav} className="contact nv nav-link">Contact</a>
                 </li>
                 <li className="nav-item bt_spec bt_spec2">
-                    <a target="_blank" href="https://fiverr.com/thedesiretree" className="bt nav-link">Order Now</a>
+                    <a target="_blank" href="https://fiverr.com/thedesiretree" className="bt nav-link">Contact me @ Fiverr</a>
                 </li>
             </ul>
         </div>

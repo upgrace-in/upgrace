@@ -21,16 +21,16 @@ export default function Footer() {
                         <h6 className="text-uppercase font-weight-bold mb-4">Menu</h6>
                         <ul className="list-unstyled mb-0">
                             <li className="mb-2"><a href="#" className="text-muted">Home</a></li>
-                            <li className="mb-2"><a href="#" className="serv text-muted">Hands On</a></li>
-                            <li className="mb-2"><a href="#" className="review text-muted">Reviews</a></li>
-                            <li className="mb-2"><a href="#" className="works text-muted">Works</a></li>
+                            <li className="mb-2"><a style={{cursor: 'pointer'}} className="serv text-muted">Hands On</a></li>
+                            <li className="mb-2"><a style={{cursor: 'pointer'}} className="review text-muted">Reviews</a></li>
+                            <li className="mb-2"><a href="#works" className="works text-muted">Works</a></li>
                         </ul>
                     </div>
                     <div className="col-lg-2 col-md-6 mb-4 mb-lg-0">
                         <h6 className="text-uppercase font-weight-bold mb-4">Profile</h6>
                         <ul className="list-unstyled mb-0">
-                            <li className="mb-2"><a href="https://fiverr.com/thedesiretree/" className="text-muted">Fiverr</a></li>
-                            <li className="mb-2"><a href="https://leetcode.com/user7975b/" className="text-muted">Leetcode</a></li>
+                            <li className="mb-2"><a target="_blank"  href="https://fiverr.com/thedesiretree/" className="text-muted">Fiverr</a></li>
+                            <li className="mb-2"><a target="_blank" href="https://leetcode.com/user7975b/" className="text-muted">Leetcode</a></li>
                         </ul>
                     </div>
                     <div className="col-lg-4 col-md-6 mb-lg-0">
