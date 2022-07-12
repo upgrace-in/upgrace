@@ -1,5 +1,5 @@
 import UpdateCard from './UpdateCard'
-import data from './data'
+import data from './data.json'
 
 export default function Workcard(props) {
 
@@ -8,7 +8,7 @@ export default function Workcard(props) {
         let samples = data[1]["data"]
         let sampleArr = []
         for (let j = 1; j < samples.length; j++) {
-            if (samples[j]["code"] == code) {
+            if (samples[j]["code"] === code) {
                 sampleArr.push(<UpdateCard key={j} src={samples[j]["src"]} href={samples[j]["link"]} />)
             }
         }

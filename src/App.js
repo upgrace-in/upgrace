@@ -3,7 +3,7 @@ import Review from './components/Review'
 import Contact from './components/Contact'
 import Navbar from './components/Navbar'
 import Work from './components/Work'
-import AcquiredSkills from './components/AcquiredSkills'
+import { AcquiredSkills, SkillCon } from './components/AcquiredSkills'
 import $ from 'jquery'
 
 export default function App() {
@@ -29,6 +29,8 @@ export default function App() {
     <div>
       <Navbar show_nav={show_nav} hide_nav={hide_nav} />
       <Title />
+      <SkillCon />
+
       <AcquiredSkills />
       <Work />
       <Review />

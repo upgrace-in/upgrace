@@ -182,3 +182,11 @@ hr {
     border: 2px solid #8000FF;
     color: #8000FF;
 }
+
+.head_section{
+    background: #8000FF url(../assets/bg.jpg);
+    background-size: cover;
+    display: block;
+    width: 100%;
+    height: auto;
+}
