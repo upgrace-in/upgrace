@@ -24,13 +24,6 @@ export default function App() {
       $('.nav_mob').hide();
     }, 200);
   }
-
-  // fetch('https://files.upgrace.in/data.json', { headers: {'Origin': 'http://localhost:3002/'}})
-  //   .then(function (response) {
-  //     console.log(response);
-  //   }).catch(function (error) {
-  //     console.log('Request failed', error)
-  //   });
   
   return (
     <div className='col-md-12'>
