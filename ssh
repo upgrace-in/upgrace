@@ -1,0 +1,14 @@
+
+
+ssh root@167.86.127.254
+wJ3aJedHbSQqc
+
+
+git push https://upgrace-in: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@github.com/upgrace-in/upgrace.git master
+
+scp -r test.html root@167.86.127.254:/var/www/port/templates/
+scp -r index.py root@167.86.127.254:/var/www/port/templates/
+scp -r logo.jpeg root@167.86.127.254:/var/www/port/templates/wintexworld/
+
+scp -r uncle.zip root@167.86.127.254:/var/www/port/templates/
+scp -r data.json root@167.86.127.254:/var/www/port/templates/

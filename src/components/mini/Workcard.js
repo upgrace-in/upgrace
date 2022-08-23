@@ -16,10 +16,10 @@ export default function Workcard(props) {
     }
 
     return (
-            <div className="cards text-center mx-auto col-md-12">
-                <div className="row">
-                    {updateCards()}
-                </div>
+        <div className="cards text-center mx-auto col-md-12">
+            <div className="row">
+                {updateCards()}
             </div>
+        </div>
     )
 }

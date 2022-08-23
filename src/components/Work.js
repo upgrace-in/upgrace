@@ -1,4 +1,4 @@
-import data from './mini/data'
+import data from './mini/data.json'
 import { useState, useEffect, useTransition } from 'react'
 import Workcard from './mini/Workcard'
 import Head from './mini/Head'
