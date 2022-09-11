@@ -52,7 +52,8 @@
       let s_tl = gsap.timeline();
 
       s_tl.to(called_con, {
-        opacity: 1,
+        // opacity: 1,
+        autoAlpha: 1,
         x: 0,
         scale: 1,
         pointerEvents: 'auto',
@@ -60,7 +61,8 @@
       });
       s_tl.to(called_content, {
         x: 0,
-        opacity: 1,
+        // opacity: 1,
+        autoAlpha: 1,
         stagger: .3
       }, "-=.3");
       s_tl.pause()
