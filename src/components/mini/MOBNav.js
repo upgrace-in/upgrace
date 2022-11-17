@@ -22,9 +22,6 @@ export default function MOBNav(props) {
                     <a className="review nv nav-link">Testimonials</a>
                 </li>
                 <li className="nav-item">
-                    <a target="_blank" href="assets/resume.pdf" className="nv nav-link">Resume/CV</a>
-                </li>
-                <li className="nav-item">
                     <a href="#contact" onClick={props.hide_nav} className="contact nv nav-link">Contact</a>
                 </li>
                 <li className="nav-item bt_spec bt_spec2">

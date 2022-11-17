@@ -16,9 +16,6 @@ export default function PCNav(props) {
                         <a className="review nav-link">Testimonials</a>
                     </li>
                     <li className="nav-item">
-                        <a target="_blank" href="assets/resume.pdf" className="nav-link">Resume/CV</a>
-                    </li>
-                    <li className="nav-item">
                         <a href="#contact" className="contact nav-link">Contact</a>
                     </li>
                     <li className="nav-item bt_spec">
