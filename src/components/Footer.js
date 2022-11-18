@@ -27,10 +27,11 @@ export default function Footer() {
                         </ul>
                     </div>
                     <div className="col-lg-2 col-md-6 mb-4 mb-lg-0">
-                        <h6 className="text-uppercase font-weight-bold mb-4">Profile</h6>
+                        <h6 className="text-uppercase font-weight-bold mb-4">Social</h6>
                         <ul className="list-unstyled mb-0">
-                            <li className="mb-2"><a target="_blank"  href="https://fiverr.com/thedesiretree/" className="text-muted">Fiverr</a></li>
                             <li className="mb-2"><a target="_blank" href="https://leetcode.com/user7975b/" className="text-muted">Leetcode</a></li>
+                            <li className="mb-2"><a target="_blank" href="https://www.linkedin.com/in/itzprince47/" className="text-muted">Linkedin</a></li>
+                            <li className="mb-2"><a target="_blank" href="https://twitter.com/PrinceG07237749/" className="text-muted">Twitter</a></li>
                         </ul>
                     </div>
                     <div className="col-lg-4 col-md-6 mb-lg-0">

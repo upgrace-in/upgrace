@@ -7,7 +7,7 @@ export default function Workcard(props) {
         let code = props.code
         let samples = data[1]["data"]
         let sampleArr = []
-        for (let j = 1; j < samples.length; j++) {
+        for (let j = 0; j < samples.length; j++) {
             if (samples[j]["code"] === code) {
                 sampleArr.push(<UpdateCard key={j} src={samples[j]["src"]} href={samples[j]["link"]} />)
             }

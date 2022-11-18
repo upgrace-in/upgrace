@@ -14,11 +14,12 @@ export function SkillCon(props) {
                     <div className="col-md-6">
                         <ul className="serv_list">
                             <Skill skill="dApp Creation (Contracts + Wallets Integration)" />
-                            <Skill skill="Realtime Applications" />
-                            <Skill skill="Web Scraping" />
-                            <Skill skill="UI/UX To Frontend (using React)" />
-                            <Skill skill="Api Integrations" />
-                            <Skill skill="Payment Gateway Integrations" />
+                            <Skill skill="NFT Minting" />
+                            <Skill skill="NFT Staking" />
+                            <Skill skill="NFT Marketplace" />
+                            <Skill skill="Web Scraping (Python)" />
+                            <Skill skill="UI/UX To Frontend" />
+                            
                         </ul>
                     </div>
                     <div className="col-md-6">
@@ -27,6 +28,9 @@ export function SkillCon(props) {
                             <Skill skill="Scripting Works" />
                             <Skill skill="Cloud Management" />
                             <Skill skill="CMS (Wordpress, Wix, SquareSpace)" />
+                            <Skill skill="API Integrations" />
+                            <Skill skill="Payment Gateways" />
+                            
                         </ul>
                     </div>
                 </div>
