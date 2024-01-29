@@ -9,13 +9,13 @@ export default function Footer() {
                             <br />
                             <p className="font-italic text-muted">"Never Settle For Less Than You Deserve. Even if it means loosing people" <br /><b>- Anonymous</b></p>
                         </div>
-                        <ul className="list-inline mt-4">
-                            <li className="list-inline-item"><a href="#" target="_blank" title="twitter"><i className="fa fa-twitter"></i></a></li>
-                            <li className="list-inline-item"><a href="#" target="_blank" title="facebook"><i className="fa fa-facebook"></i></a></li>
-                            <li className="list-inline-item"><a href="#" target="_blank" title="instagram"><i className="fa fa-instagram"></i></a></li>
-                            <li className="list-inline-item"><a href="#" target="_blank" title="pinterest"><i className="fa fa-pinterest"></i></a></li>
-                            <li className="list-inline-item"><a href="#" target="_blank" title="vimeo"><i className="fa fa-vimeo"></i></a></li>
-                        </ul>
+                        {/* <ul className="list-inline mt-4">
+                            <li className="list-inline-item"><a href="#" target="_blank" title="twitter"><i className="fab fa-twitter"></i></a></li>
+                            <li className="list-inline-item"><a href="#" target="_blank" title="facebook"><i className="fab fa-facebook"></i></a></li>
+                            <li className="list-inline-item"><a href="#" target="_blank" title="instagram"><i className="fab fa-instagram"></i></a></li>
+                            <li className="list-inline-item"><a href="#" target="_blank" title="pinterest"><i className="fab fa-pinterest"></i></a></li>
+                            <li className="list-inline-item"><a href="#" target="_blank" title="vimeo"><i className="fab fa-vimeo"></i></a></li>
+                        </ul> */}
                     </div>
                     <div className="col-lg-2 col-md-6 mb-4 mb-lg-0">
                         <h6 className="text-uppercase font-weight-bold mb-4">Menu</h6>
@@ -37,9 +37,9 @@ export default function Footer() {
                     <div className="col-lg-4 col-md-6 mb-lg-0">
                         <h6 className="text-uppercase font-weight-bold mb-4">Contact</h6>
                         <p className="text-muted mb-4">
-                            <i className="fa fa-envelope"></i>&nbsp;&nbsp;upgrace.in@gmail.com
+                            <i className="fa fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:upgrace.in@gmail.com">upgrace.in@gmail.com</a>
                             <br />
-                            <i className="fa fa-phone"></i>&nbsp;&nbsp;+91 7001-617-004
+                            <i className="fa fa-phone"></i>&nbsp;&nbsp;<a href="tel:+917001617004">+91 7001617004</a>
                         </p>
                     </div>
                 </div>

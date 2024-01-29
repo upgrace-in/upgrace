@@ -24,9 +24,14 @@ export default function App() {
       $('.nav_mob').hide();
     }, 200);
   }
-  
+
   return (
     <div className='col-md-12'>
+      <div className='floatICONABS'>
+        <a href="https://wa.me/+917001617004" target="_blank">
+          <i class="fab fa-whatsapp floatICON"></i>
+        </a>
+      </div>
       <Navbar show_nav={show_nav} hide_nav={hide_nav} />
       <Title />
       <WorkCon hide={false} sec={false} />

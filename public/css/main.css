@@ -130,6 +130,21 @@ body {
     border-radius: 10px;
 }
 
+.floatICONABS {
+    z-index: 2000;
+    position: fixed;
+    right: 10px !important;
+    bottom: 10px !important;
+    background: #fff;
+    border-radius: 10px !important;
+    padding: 5px !important;
+}
+
+.floatICON {
+    font-size: 3.5rem;
+    color: #00da60;
+}
+
 .head {
     font-weight: 700;
 }
@@ -170,7 +185,8 @@ body {
     word-wrap: break-word;
 }
 
-html, body{
+html,
+body {
     scroll-behavior: smooth;
 }
 
@@ -211,11 +227,11 @@ a:hover {
 
 @media (max-width: 700px) {
 
-    #foot_con{
+    #foot_con {
         text-align: center;
     }
 
-    #foot_con>img{
+    #foot_con>img {
         margin-right: auto;
         margin-left: auto;
     }
