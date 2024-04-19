@@ -7,17 +7,17 @@
             {
                 "id": "1",
                 "code": "W3",
-                "heading": "Web3 Integrations"
+                "heading": "Decentralized Apps"
             },
             {
                 "id": "2",
                 "code": "FSWD",
-                "heading": "Full Stack Web Development"
+                "heading": "Full Stack Projects"
             },
             {
                 "id": "3",
                 "code": "PBW",
-                "heading": "Purpose Based Websites"
+                "heading": "Purpose Based Projects"
             },
             {
                 "id": "4",
@@ -32,7 +32,7 @@
             {
                 "id": "6",
                 "code": "WD",
-                "heading": "Template Editings"
+                "heading": "User Interface Designings"
             }
         ]
     },
@@ -62,7 +62,7 @@
             {
                 "id": "5",
                 "code": "WD",
-                "link": "https:\/\/files.upgrace.in/stock/",
+                "link": "websites\/stockbag.png",
                 "src": "stockbag.png"
             },
             {
@@ -79,8 +79,8 @@
             },
             {
                 "id": "11",
-                "code": "FSWD",
-                "link": "",
+                "code": "PBW",
+                "link": "websites\/tradeg.png",
                 "src": "tradeg.png"
             },
             {
@@ -88,6 +88,30 @@
                 "code": "PBW",
                 "link": "https:\/\/missspell.com",
                 "src": "missspell.png"
+            },
+            {
+                "id": "170",
+                "link": "https:\/\/pilottechspeech.in",
+                "code": "PBW",
+                "src": "pilottechspeech.png"
+            },
+            {
+                "id": "171",
+                "link": "websites\/\/dnctool.png",
+                "code": "PBW",
+                "src": "dnctool.png"
+            },
+            {
+                "id": "172",
+                "link": "https:\/\/btcfarm.vercel.app/",
+                "code": "W3",
+                "src": "btcfarm.png"
+            },
+            {
+                "id": "173",
+                "link": "https:\/\/kcfamily.vercel.app/",
+                "code": "PBW",
+                "src": "kcfamily.png"
             },
             {
                 "id": "14",
@@ -114,6 +138,18 @@
                 "src": "nova.png"
             },
             {
+                "id": "133",
+                "code": "W3",
+                "link": "https:\/\/lunchmoney.io/",
+                "src": "dapp-lunchmoney.png"
+            },
+            {
+                "id": "162",
+                "code": "W3",
+                "link": "https:\/\/www.sleazysloths.com",
+                "src": "sleazysloth.png"
+            },
+            {
                 "id": "158",
                 "code": "W3",
                 "link": "https:\/\/www.lazypelicansquad.com\/",
@@ -137,12 +173,7 @@
                 "link": "https:\/\/outsiderskids-6v2o.vercel.app",
                 "src": "outsider.png"
             },
-            {
-                "id": "162",
-                "code": "W3",
-                "link": "https:\/\/www.sleazysloths.com",
-                "src": "sleazysloth.png"
-            },
+            
             {
                 "id": "163",
                 "code": "W3",
@@ -161,12 +192,7 @@
                 "link": "",
                 "src": "cult.png"
             },
-            {
-                "id": "133",
-                "code": "W3",
-                "link": "https:\/\/lunchmoney.io/",
-                "src": "feedback.png"
-            },
+            
             {
                 "id": "135",
                 "code": "W3",
@@ -184,6 +210,24 @@
                 "code": "W3",
                 "link": "https:\/\/tropicalsloth.vercel.app\/",
                 "src": "nomad.png"
+            },
+            {
+                "id": "167",
+                "link": "https:\/\/bgonline.vercel.app/",
+                "code": "WD",
+                "src": "bgonline.png"
+            },
+            {
+                "id": "168",
+                "link": "https:\/\/www.cgdevanimation.com/",
+                "code": "WD",
+                "src": "cgdev.png"
+            },
+            {
+                "id": "169",
+                "link": "https:\/\/skvisnoh.upgrace.in",
+                "code": "PBW",
+                "src": "skvisnoh.png"
             },
             {
                 "id": "136",
