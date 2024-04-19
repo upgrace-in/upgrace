@@ -47,7 +47,7 @@ export default function Footer() {
 
             <div className="bg-light py-4">
                 <div className="container text-center">
-                    <p className="text-muted mb-0 py-2">© Upgrace 2022 All rights reserved</p>
+                    <p className="text-muted mb-0 py-2">© Upgrace 2022</p>
                 </div>
             </div>
         </footer>
