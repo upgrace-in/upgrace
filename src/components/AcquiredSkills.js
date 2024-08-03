@@ -13,7 +13,7 @@ export function SkillCon(props) {
                 <div className="row">
                     <div className="col-md-6">
                         <ul className="serv_list">
-                            <Skill skill="JavaScript (jQuery, Vanilla...)" />
+                            <Skill skill="JavaScript (Typescript, jQuery, Vanilla...)" />
                             <Skill skill="ReactJS (using Libraries Mostly)" />
                             <Skill skill="NextJS with Mongo (next-auth, mongoose, zod...)" />
                             <Skill skill="Python (Requests, Beautifulsoup, Urllib3...)" />

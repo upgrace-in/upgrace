@@ -60,6 +60,12 @@
                 "src": "visa.png"
             },
             {
+                "id": "3",
+                "code": "FSWD",
+                "link": "https:\/\/tiktactoe.upgrace.in",
+                "src": "tiktactoe.png"
+            },
+            {
                 "id": "5",
                 "code": "WD",
                 "link": "websites\/stockbag.png",
@@ -304,8 +310,14 @@
             {
                 "id": "155",
                 "code": "W3",
-                "link": "websites\/basyc.mp4",
-                "src": "basyc.mp4"
+                "link": "websites\/basyc.mov",
+                "src": "basyc.mov"
+            },
+            {
+                "id": "177",
+                "code": "FSWD",
+                "link": "websites\/doc-center.mov",
+                "src": "doc-center.mov"
             },
             {
                 "id": "156",
