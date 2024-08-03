@@ -5,7 +5,7 @@ export default function Footer() {
                 <div className="row py-4">
                     <div className="col-lg-4 col-md-6 mb-4 mb-lg-0">
                         <div id="foot_con">
-                            <img src="assets/icon.png" alt="" width="180" className="mb-3" />
+                            <img src="assets/logo 2.png" alt="" width="180" className="mb-3" />
                             <br />
                             <p className="font-italic text-muted">"Never Settle For Less Than You Deserve. Even if it means loosing people" <br /><b>- Anonymous</b></p>
                         </div>

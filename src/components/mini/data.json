@@ -224,12 +224,6 @@
                 "src": "bgonline.png"
             },
             {
-                "id": "168",
-                "link": "https:\/\/www.cgdevanimation.com/",
-                "code": "WD",
-                "src": "cgdev.png"
-            },
-            {
                 "id": "169",
                 "link": "https:\/\/skvisnoh.upgrace.in",
                 "code": "PBW",
@@ -308,22 +302,40 @@
                 "src": "ticket.png"
             },
             {
+                "id": "160",
+                "code": "FSWD",
+                "link": "https:\/\/mds.upgrace.in",
+                "src": "mds.png"
+            },
+            {
+                "id": "161",
+                "code": "PSW",
+                "link": "https:\/\/mds.upgrace.in",
+                "src": "mds.png"
+            },
+            {
                 "id": "155",
                 "code": "W3",
-                "link": "websites\/basyc.mov",
-                "src": "basyc.mov"
+                "link": "websites\/basyc.mp4",
+                "src": "basyc.mp4"
+            },
+            {
+                "id": "180",
+                "code": "W3",
+                "link": "https:\/\/nft.stepearnfitness.com",
+                "src": "stepearn.png"
             },
             {
                 "id": "177",
                 "code": "FSWD",
-                "link": "websites\/doc-center.mov",
-                "src": "doc-center.mov"
+                "link": "websites\/doc-center.mp4",
+                "src": "doc-center.mp4"
             },
             {
                 "id": "156",
                 "code": "W3",
-                "link": "websites\/myremix.ca.mp4",
-                "src": "myremix.ca.mp4"
+                "link": "websites\/myremix.mp4",
+                "src": "myremix.mp4"
             }
         ]
     }
