@@ -75,13 +75,13 @@
                 "id": "9",
                 "code": "GAI",
                 "link": "websites\/drive.mp4",
-                "src": "drive.mp4"
+                "src": "drive.png"
             },
             {
                 "id": "10",
                 "code": "GAI",
                 "link": "websites\/sheets.mp4",
-                "src": "sheets.mp4"
+                "src": "sheets.png"
             },
             {
                 "id": "11",
@@ -123,19 +123,19 @@
                 "id": "14",
                 "code": "AB",
                 "link": "websites\/discord_Sel.mp4",
-                "src": "discord_Sel.mp4"
+                "src": "discord_Sel.png"
             },
             {
                 "id": "15",
                 "code": "AB",
                 "link": "websites\/sneakers.mp4",
-                "src": "sneakers.mp4"
+                "src": "sneakers.png"
             },
             {
                 "id": "17",
                 "code": "AB",
                 "link": "websites\/whats.mp4",
-                "src": "whats.mp4"
+                "src": "whats.png"
             },
             {
                 "id": "131",
@@ -153,25 +153,25 @@
                 "id": "190",
                 "code": "W3",
                 "link": "websites\/\/liza.mp4",
-                "src": "liza.mp4"
+                "src": "liza.png"
             },
             {
                 "id": "191",
                 "code": "AB",
                 "link": "websites\/\/socialv2.mp4",
-                "src": "socialv2.mp4"
+                "src": "socialv2.png"
             },
             {
                 "id": "191",
                 "code": "FSWD",
                 "link": "websites\/\/socialv2.mp4",
-                "src": "socialv2.mp4"
+                "src": "socialv2.png"
             },
             {
                 "id": "191",
                 "code": "PBW",
                 "link": "websites\/\/socialv2.mp4",
-                "src": "socialv2.mp4"
+                "src": "socialv2.png"
             },
             {
                 "id": "162",
@@ -341,7 +341,7 @@
                 "id": "155",
                 "code": "W3",
                 "link": "websites\/basyc.mp4",
-                "src": "basyc.mp4"
+                "src": "basyc.png"
             },
             {
                 "id": "180",
@@ -353,19 +353,19 @@
                 "id": "177",
                 "code": "FSWD",
                 "link": "websites\/doc-center.mp4",
-                "src": "doc-center.mp4"
+                "src": "doc-center.png"
             },
             {
                 "id": "156",
                 "code": "W3",
                 "link": "websites\/myremix.mp4",
-                "src": "myremix.mp4"
+                "src": "myremix.png"
             },
             {
                 "id": "201",
                 "link": "websites\/\/pugspuggy.mp4",
                 "code": "W3",
-                "src": "pugspuggy.mp4"
+                "src": "pugspuggy.png"
             }
         ]
     }
