@@ -10,11 +10,9 @@ export default function Footer() {
                             <p className="font-italic text-muted">"Never Settle For Less Than You Deserve. Even if it means loosing people" <br /><b>- Anonymous</b></p>
                         </div>
                         {/* <ul className="list-inline mt-4">
-                            <li className="list-inline-item"><a href="#" target="_blank" title="twitter"><i className="fab fa-twitter"></i></a></li>
-                            <li className="list-inline-item"><a href="#" target="_blank" title="facebook"><i className="fab fa-facebook"></i></a></li>
-                            <li className="list-inline-item"><a href="#" target="_blank" title="instagram"><i className="fab fa-instagram"></i></a></li>
-                            <li className="list-inline-item"><a href="#" target="_blank" title="pinterest"><i className="fab fa-pinterest"></i></a></li>
-                            <li className="list-inline-item"><a href="#" target="_blank" title="vimeo"><i className="fab fa-vimeo"></i></a></li>
+                            <li className="list-inline-item"><a href="#" target="_blank" title="twitter">Terms & Conditions</a></li>
+                            <li className="list-inline-item"><a href="#" target="_blank" title="facebook">Privacy Policy</a></li>
+                            <li className="list-inline-item"><a href="#" target="_blank" title="instagram">Contact Us</a></li>
                         </ul> */}
                     </div>
                     <div className="col-lg-2 col-md-6 mb-4 mb-lg-0">
@@ -24,6 +22,10 @@ export default function Footer() {
                             <li className="mb-2"><a style={{cursor: 'pointer'}} className="serv text-muted">Hands On</a></li>
                             <li className="mb-2"><a style={{cursor: 'pointer'}} className="review text-muted">Reviews</a></li>
                             <li className="mb-2"><a href="#works" className="works text-muted">Works</a></li>
+                            <li className="mb-2"><a href="/TermsandConditions" class="text-muted" target="_blank">Terms & Conditions</a></li>
+                            <li className="mb-2"><a href="/RefundandCancellation" class="text-muted" target="_blank">Privacy Policy</a></li>
+                            <li className="mb-2"><a href="/ContactUs" class="text-muted" target="_blank">Contact Us</a></li>
+                            
                         </ul>
                     </div>
                     <div className="col-lg-2 col-md-6 mb-4 mb-lg-0">
