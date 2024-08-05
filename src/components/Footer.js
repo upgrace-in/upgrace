@@ -25,7 +25,6 @@ export default function Footer() {
                             <li className="mb-2"><a href="/TermsandConditions" class="text-muted" target="_blank">Terms & Conditions</a></li>
                             <li className="mb-2"><a href="/RefundandCancellation" class="text-muted" target="_blank">Privacy Policy</a></li>
                             <li className="mb-2"><a href="/ContactUs" class="text-muted" target="_blank">Contact Us</a></li>
-                            
                         </ul>
                     </div>
                     <div className="col-lg-2 col-md-6 mb-4 mb-lg-0">
@@ -42,7 +41,7 @@ export default function Footer() {
                         <p className="text-muted mb-4">
                             <i className="fa fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:upgrace.in@gmail.com">upgrace.in@gmail.com</a>
                             <br />
-                            <i className="fa fa-phone"></i>&nbsp;&nbsp;<a href="tel:+917001617004">+91 7001617004</a>
+                            <i className="fa fa-phone"></i>&nbsp;&nbsp;<a href="tel:+917001617004">+91 8877102431</a>
                         </p>
                     </div>
                 </div>
