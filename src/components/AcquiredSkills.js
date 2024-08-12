@@ -17,8 +17,8 @@ export function SkillCon(props) {
                             <Skill skill="ReactJS (using Libraries Mostly)" />
                             <Skill skill="NextJS with Mongo (next-auth, mongoose, zod...)" />
                             <Skill skill="Python (Requests, Beautifulsoup, Urllib3...)" />
-                            <Skill skill="Django / Flask (Basics)" />
-                            <Skill skill="PHP with SQL (Basics)" />
+                            <Skill skill="Django / Flask" />
+                            <Skill skill="PHP with SQL" />
                             <Skill skill="Solidity (with Truffle, Ganache)" />
                         </ul>
                     </div>
